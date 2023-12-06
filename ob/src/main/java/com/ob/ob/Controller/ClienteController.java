@@ -17,7 +17,7 @@ import com.ob.ob.Service.ClienteService;
 import com.ob.ob.Utils.AppException;
 
 @Controller
-@RequestMapping("/Cliente")
+@RequestMapping("/cliente")
 public class ClienteController {
     
     @Autowired
